@@ -10,6 +10,3 @@ $(window).resize(function() {
  $("#email").attr({
     href: ("mailto:gregdd@outlook.com?subject=contact_from_website&body=Hello")
   });
-$("#email1").attr({
-    href: ("mailto:gregdd@outlook.com?subject=contact_from_website&body=Hello")
-  });
