@@ -79,7 +79,7 @@ h3 {
 #sectionGreg button {
   font-size: 15px;
   margin-top: 5px;
-  margin-rigth: auto;
+  margin-right: auto;
   width: 40%;
   text-align: left;
 }
@@ -98,7 +98,7 @@ hr {
 }
 
 .listd {
-  //border:1px solid #ccc;
+  /*border:1px solid #ccc;*/
   border-width: 1px 0;
   list-style: none;
   margin: 0;
@@ -107,7 +107,7 @@ hr {
 }
 
 .listd li {
-  //display: inline;
+  /*display: inline;*/
   margin: 5px;
   padding: 0;
 }
@@ -118,7 +118,7 @@ hr {
 }
 
 .listc {
-  //border:1px solid #ccc;
+  /*border:1px solid #ccc;*/
   border-width: 1px 0;
   list-style: none;
   margin: 0;
